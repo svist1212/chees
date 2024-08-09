@@ -53,6 +53,13 @@ html {
   color: var(--general-text);
   font-weight: 500;
 }
+.title-3 {
+  font-family: 'Gabriola';
+  font-size: 54px;
+  line-height: 0.82;
+  color: var(--general-text);
+  font-weight: 500;
+}
 .title-6 {
   font-family: 'Gabriola';
   font-size: 38px;

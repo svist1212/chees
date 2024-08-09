@@ -1,13 +1,13 @@
 .header {
   background: var(--hed-foot-bg);
-  margin-bottom: 40px;
 
 }
+
 .header__inner {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  margin: 20px 0;
+  margin: 5px 0;
 }
 
 .logo {
@@ -22,9 +22,10 @@
 
 .header__nav {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 4vh 40px;
+  gap: 4vh 20px;
+  justify-content: center;
+
 }
 
 .header__link {
@@ -90,4 +91,3 @@
   top: 0px;
   transform: rotate(-45deg);
 }
-
